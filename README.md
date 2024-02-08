@@ -7,7 +7,8 @@ Welcome to the Cafe App! This application allows you to manage your cafe's produ
 1. Overview
 2. Installation
 3. Usage
-4. Future Plans
+4. Project Completion
+5. Future Plans
 
 ---
 
@@ -97,7 +98,11 @@ To run the Cafe App locally, follow these steps:
    - **Delete Customer**: Remove a customer from the catalogue.
 
 ---
+#### Project Completion
 
+The Cafe App is fully functional according to the specified user stories. It allows users to manage products, couriers, orders, and customers efficiently. However, there is room for improvement and future enhancements.
+
+---
 #### Future Plans
 
 - Implement authentication and authorization for secure access to the application.
